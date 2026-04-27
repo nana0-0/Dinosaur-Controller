@@ -1,5 +1,4 @@
 # Dinosaur-Controller
-授業で制作した恐竜コントローラーです
 <img width="2048" height="1536" alt="3-1" src="https://github.com/user-attachments/assets/2d764dc7-65bf-4353-b66d-97e9bc7a14ac" />
 <img width="2048" height="1536" alt="3-2" src="https://github.com/user-attachments/assets/b47968e9-416e-4b95-8eb6-4de124dbda00" />
 <img width="2048" height="1536" alt="3-3" src="https://github.com/user-attachments/assets/3a54bcde-0a3e-4adf-8301-aee84c3f6c68" />
