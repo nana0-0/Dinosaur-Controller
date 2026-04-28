@@ -1,9 +1,8 @@
 # Dinosaur-Controller
-<img width="2048" height="1536" alt="3-1" src="https://github.com/user-attachments/assets/2d764dc7-65bf-4353-b66d-97e9bc7a14ac" />
-<img width="2048" height="1536" alt="3-2" src="https://github.com/user-attachments/assets/b47968e9-416e-4b95-8eb6-4de124dbda00" />
-<img width="2048" height="1536" alt="3-3" src="https://github.com/user-attachments/assets/3a54bcde-0a3e-4adf-8301-aee84c3f6c68" />
-<img width="2048" height="1536" alt="3-4" src="https://github.com/user-attachments/assets/ce95d74a-b378-46e2-ad07-6ebc65f047e1" />
-<img width="2048" height="1536" alt="3-5" src="https://github.com/user-attachments/assets/5aa3da0b-c80e-434a-bc53-6ff340f53d81" />
-<img width="2048" height="1536" alt="3-6" src="https://github.com/user-attachments/assets/eb58640a-5d13-4faa-8e55-98f928ba2d96" />
-<img width="2048" height="1536" alt="3-7" src="https://github.com/user-attachments/assets/3618e821-0489-4d66-9e6a-b9931c1d5e22" />
-<img width="2048" height="1536" alt="3-8" src="https://github.com/user-attachments/assets/f2d3eae0-4544-4644-9fc5-83eee59f88fb" />
+<img width="2048" height="1536" alt="3-1" src="https://github.com/user-attachments/assets/9559a431-3294-4b1d-b8dd-fb824739023f" />
+<img width="2048" height="1536" alt="3-2" src="https://github.com/user-attachments/assets/de1e6dbb-38d3-4e2a-b898-dba5943de42c" />
+<img width="2048" height="1536" alt="3-3" src="https://github.com/user-attachments/assets/4acbaecd-3b40-4321-a3c9-a7d7d069f8e1" />
+<img width="2048" height="1536" alt="3-4" src="https://github.com/user-attachments/assets/32ba8876-466f-4135-ba8e-3adb2c0f8796" />
+<img width="2048" height="1536" alt="3-5" src="https://github.com/user-attachments/assets/8eacb925-b974-4a1a-9415-cb3a459993b8" />
+<img width="2048" height="1536" alt="3-7" src="https://github.com/user-attachments/assets/43e998c5-e9df-4d02-bda0-9c8273248cec" />
+<img width="2048" height="1536" alt="3-8" src="https://github.com/user-attachments/assets/8e464943-82c9-4cd7-be1c-79183bf46464" />
